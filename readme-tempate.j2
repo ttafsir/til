@@ -1,0 +1,11 @@
+<!-- index starts -->
+
+Count: {{ count }}
+
+{% for topic, values in topics.items() %}
+## {{ topic }}
+
+{% for til in values %}
+* [{{ til.title }}]({{ til.url }}) - {{ til["created"].split("T")[0] }}
+{%- endfor %}
+{% endfor %}
