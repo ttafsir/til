@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 5
+Count: 6
 
 
 ## github-actions
@@ -23,3 +23,8 @@ Count: 5
 
 * [Writing Assertion Helper Functions](https://github.com/ttafsir/til/blob/main/pytest/writing-assertion-helper-functions.md) - 2022-04-12
 * [Check pytest.raises exception message with match](https://github.com/ttafsir/til/blob/main/pytest/check-pytest-raises-message-with-match.md) - 2022-04-12
+
+## network-automation
+
+
+* [How to use an Arista containerized EOS Image](https://github.com/ttafsir/til/blob/main/network-automation/how-to-use-a-containerized-eos-image.md) - 2022-04-14
