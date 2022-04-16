@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 6
+Count: 7
 
 
 ## github-actions
@@ -27,4 +27,9 @@ Count: 6
 ## network-automation
 
 
-* [How to use an Arista containerized EOS Image](https://github.com/ttafsir/til/blob/main/network-automation/how-to-use-a-containerized-eos-image.md) - 2022-04-14
+* [How to use an Arista containerized EOS Image](https://github.com/ttafsir/til/blob/main/network-automation/how-to-use-a-containerized-eos-image.md) - 2022-04-15
+
+## eve-ng
+
+
+* [Enable SSL certificate for Eve NG Pro with Ansible and Let's Encrypt](https://github.com/ttafsir/til/blob/main/eve-ng/certbot-ssl-certificate-for-eve-ng-pro-with-ansible.md) - 2022-04-15
