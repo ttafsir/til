@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 7
+Count: 8
 
 
 ## github-actions
@@ -23,6 +23,7 @@ Count: 7
 
 * [Writing Assertion Helper Functions](https://github.com/ttafsir/til/blob/main/pytest/writing-assertion-helper-functions.md) - 2022-04-12
 * [Check pytest.raises exception message with match](https://github.com/ttafsir/til/blob/main/pytest/check-pytest-raises-message-with-match.md) - 2022-04-12
+* [Deciding Fixture Scope Dynamically](https://github.com/ttafsir/til/blob/main/pytest/dynamic-fixture-scopes.md) - 2022-04-17
 
 ## network-automation
 
@@ -32,4 +33,4 @@ Count: 7
 ## eve-ng
 
 
-* [Enable SSL certificate for Eve NG Pro with Ansible and Let's Encrypt](https://github.com/ttafsir/til/blob/main/eve-ng/certbot-ssl-certificate-for-eve-ng-pro-with-ansible.md) - 2022-04-15
+* [Enable SSL certificate for Eve NG Pro with Ansible and Let's Encrypt](https://github.com/ttafsir/til/blob/main/eve-ng/certbot-ssl-certificate-for-eve-ng-pro-with-ansible.md) - 2022-04-16
