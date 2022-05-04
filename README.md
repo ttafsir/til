@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 8
+Count: 9
 
 
 ## github-actions
@@ -34,3 +34,8 @@ Count: 8
 
 
 * [Enable SSL certificate for Eve NG Pro with Ansible and Let's Encrypt](https://github.com/ttafsir/til/blob/main/eve-ng/certbot-ssl-certificate-for-eve-ng-pro-with-ansible.md) - 2022-04-16
+
+## bash
+
+
+* [Use brace expansion to quickly create directories and files](https://github.com/ttafsir/til/blob/main/bash/create-directories-and-files-with-brace-expansions.md) - 2022-05-04
