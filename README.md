@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 9
+Count: 10
 
 
 ## github-actions
@@ -39,3 +39,8 @@ Count: 9
 
 
 * [Use brace expansion to quickly create directories and files](https://github.com/ttafsir/til/blob/main/bash/create-directories-and-files-with-brace-expansions.md) - 2022-05-04
+
+## containerlabs
+
+
+* [Install containerlabs on macOS](https://github.com/ttafsir/til/blob/main/containerlabs/install-containerlabs-on-macOS.md) - 2022-08-27
