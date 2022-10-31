@@ -4,7 +4,7 @@ Today I learned snippets, inspired by [simonw/til](https://github.com/simonw/til
 
 <!-- index starts -->
 
-Count: 10
+Count: 11
 
 
 ## github-actions
@@ -44,3 +44,8 @@ Count: 10
 
 
 * [Install containerlabs on macOS](https://github.com/ttafsir/til/blob/main/containerlabs/install-containerlabs-on-macOS.md) - 2022-08-27
+
+## kne
+
+
+* [Getting Started with KNE](https://github.com/ttafsir/til/blob/main/kne/getting-started-with-kne.md) - 2022-10-30
